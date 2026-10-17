@@ -1,0 +1,31 @@
+{
+  "name": "food-mcp",
+  "version": "0.1.0",
+  "description": "Precision food chemistry, global nutrition databases (USDA, Open Food Facts, IFCT), and recipe formulation for AI agents (thin uvx bridge).",
+  "main": "bin/index.js",
+  "bin": {
+    "food-mcp": "bin/index.js",
+    "food-chemistry-mcp": "bin/index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surendranb/food-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "fastmcp",
+    "food-chemistry",
+    "nutrition",
+    "recipe-formulation",
+    "ifct",
+    "usda",
+    "openfoodfacts",
+    "amino-acids",
+    "leucine",
+    "glycemic-load",
+    "nova-score",
+    "agents"
+  ],
+  "author": "Surendran B <reachsuren@gmail.com>"
+}

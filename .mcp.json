@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "food-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "food-mcp",
+        "food-mcp"
+      ]
+    }
+  }
+}
